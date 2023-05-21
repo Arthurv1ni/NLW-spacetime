@@ -55,6 +55,12 @@ nav {
   text-decoration: none;
   margin-bottom: 64px;
 }
+
+.memory small {
+  color: #bebebf;
+  font-size: 0.75rem;
+}
+
 .memory h1 {
   color: #eaeaea;
   font-size: 2rem;
