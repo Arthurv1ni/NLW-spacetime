@@ -16,4 +16,4 @@ Projeto deenvolvido utilizando:
 ## Layout
 
 Você pode vizualizar o layoout do projeto através
-[desse link](<https://www.figma.com/file/S5q0FGZrkLH3iXWyScnhRp/Cápsula-do-tempo-•-Trilha-Explorer-(Community)?type=design&node-id=306-84&t=LDkVaRK0fe83oej5-0>)
+[desse link](<https://www.figma.com/file/S5q0FGZrkLH3iXWyScnhRp/Cápsula-do-tempo-•-Trilha-Explorer-(Community)?type=design&node-id=306-84&t=LDkVaRK0fe83oej5-0>).
